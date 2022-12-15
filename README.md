@@ -1,4 +1,4 @@
-###👋 Hi, I am Tanmay Potbhare
+👋 Hi, I am Tanmay Potbhare
 
 - 😄 I love to play with data and build something meaningfull being a fan of Python. 
 - 🌱 I’m a Data Analyst and continually learning. 
